@@ -2,7 +2,7 @@
 
 ## Resumo e descrição do projeto
 
-Clone da interface principal do Facebook, usando Flutter Web, e banco de dados local para facilitar a gestão de conteúdos
+Clone da interface principal do Facebook, usando Flutter Web e banco de dados local para facilitar a gestão de conteúdos
 
 ## Fotos
 
@@ -18,4 +18,3 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 - [line_icons](https://pub.dev/packages/line_icons)
 - [cached_network_image](https://pub.dev/packages/cached_network_image)
 
-"# flutter_clone_facebook" 
